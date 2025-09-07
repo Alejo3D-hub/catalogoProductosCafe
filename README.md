@@ -73,7 +73,7 @@ VITE_API_PASSWORD=123456Aa$
 
 ## 👩‍💻 Autoría
 
-Este proyecto fue desarrollado por Arias Emilse. ¡Gracias por tu interés!
+Este proyecto fue desarrollado por Alejandro Insinga. ¡Gracias por tu interés!
 
 ---- 
 
