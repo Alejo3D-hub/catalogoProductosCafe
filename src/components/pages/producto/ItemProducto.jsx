@@ -16,7 +16,7 @@ const ItemProducto = ({ producto, fila, setListaProductos }) => {
       cancelButtonText: "Cancelar",
     }).then( async(result) => {
       if (result.isConfirmed) {
-        // aqui borro efectivamente el producto
+        // Aqui borro efectivamente el producto
         const respuesta = await borrarProductoPorID(producto._id)
         if(respuesta.status === 200){
           Swal.fire({
